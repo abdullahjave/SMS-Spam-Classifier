@@ -273,10 +273,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Author**: Abdullah Javed
+- **Email**: abdjaved634@gmail.com
+- **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/abdullah-javed-a1b316310/)
 
 ## 🔮 Future Enhancements
 
